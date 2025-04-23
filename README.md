@@ -9,7 +9,8 @@ Welcome to the AT Weather App, a sleek desktop application built with WPF that p
 - **Accurate Data:** Integration with AccuWeather API to fetch accurate and up-to-date weather information.
 - **Detailed Forecasts:** Click on the blue bar to get more detailed information about the forecast in your selected city.
 ![TT](https://github.com/HowestDAE/c-assignment-project-BeHaVeZ/assets/56305376/6ba883de-11e3-4990-8d33-c83b84c9bf33)
-
+![Made With](https://img.shields.io/badge/Made%20with-Visual_Studio-purple) ![C#](https://img.shields.io/badge/language-C%23-purple?logo=c-sharp) ![WPF](https://img.shields.io/badge/WPF-purple) ![JSON](https://img.shields.io/badge/JSON-black)
+![MVVM](https://img.shields.io/badge/MVVM-grey) ![HTTP](https://img.shields.io/badge/HTTP-red) ![Status](https://img.shields.io/badge/status-active-brightgreen) 
 ## Getting Started 🚀
 
 To run the AT Weather App on your local machine, follow these steps:
